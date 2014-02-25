@@ -1,0 +1,13 @@
+02-09 15:01:30.222: I/TestRunner(1404): started: testRun(course.labs.permissionslab.test.TestBookmarks)
+02-09 15:01:30.262: I/TestRunner(1404): finished: testRun(course.labs.permissionslab.test.TestBookmarks)
+02-09 15:01:30.262: I/TestRunner(1404): passed: testRun(course.labs.permissionslab.test.TestBookmarks)
+02-09 15:01:32.482: I/TestRunner(1429): started: testRun(course.labs.permissionslab.test.TestBookmarks)
+02-09 15:01:34.482: D/gralloc_goldfish(1429): Emulator without GPU emulation detected.
+02-09 15:01:34.692: D/dalvikvm(1429): GC_FOR_ALLOC freed 197K, 8% free 3188K/3460K, paused 79ms, total 81ms
+02-09 15:01:35.602: I/Lab-Permissions(1429): Entered startBookMarksActivity()
+02-09 15:01:37.232: I/Lab-Permissions(1429): Entered loadBookmarks()
+02-09 15:01:37.952: I/Lab-Permissions(1429): Bookmarks loaded
+02-09 15:01:38.292: D/dalvikvm(1429): GC_FOR_ALLOC freed 410K, 13% free 3291K/3776K, paused 33ms, total 38ms
+02-09 15:01:38.312: W/CursorWrapperInner(1429): Cursor finalized without prior close()
+02-09 15:01:39.832: I/TestRunner(1429): finished: testRun(course.labs.permissionslab.test.TestBookmarks)
+02-09 15:01:39.842: I/TestRunner(1429): passed: testRun(course.labs.permissionslab.test.TestBookmarks)

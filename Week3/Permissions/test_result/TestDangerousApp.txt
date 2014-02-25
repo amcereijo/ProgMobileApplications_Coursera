@@ -1,0 +1,10 @@
+02-11 13:03:18.686: I/TestRunner(1413): started: testRun(course.labs.permissionslab.test.TestDangerousApp)
+02-11 13:03:18.756: I/TestRunner(1413): finished: testRun(course.labs.permissionslab.test.TestDangerousApp)
+02-11 13:03:18.756: I/TestRunner(1413): passed: testRun(course.labs.permissionslab.test.TestDangerousApp)
+02-11 13:03:21.306: I/TestRunner(1438): started: testRun(course.labs.permissionslab.test.TestDangerousApp)
+02-11 13:03:22.976: I/Choreographer(1438): Skipped 35 frames!  The application may be doing too much work on its main thread.
+02-11 13:03:23.886: I/Lab-Permissions(1438): Entered startBookMarksActivity()
+02-11 13:03:25.626: I/Lab-Permissions(1438): Entered startGoToDangerousActivity()
+02-11 13:03:28.596: I/Lab-Permissions(1438): Entered startDangerousActivity()
+02-11 13:03:30.426: I/TestRunner(1438): finished: testRun(course.labs.permissionslab.test.TestDangerousApp)
+02-11 13:03:30.426: I/TestRunner(1438): passed: testRun(course.labs.permissionslab.test.TestDangerousApp)

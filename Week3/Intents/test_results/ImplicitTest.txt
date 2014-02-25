@@ -1,0 +1,27 @@
+02-08 14:05:12.579: I/TestRunner(1606): started: testRun(course.labs.intentslab.test.ImplicitTest)
+02-08 14:05:12.609: I/TestRunner(1606): finished: testRun(course.labs.intentslab.test.ImplicitTest)
+02-08 14:05:12.609: I/TestRunner(1606): passed: testRun(course.labs.intentslab.test.ImplicitTest)
+02-08 14:05:13.928: I/TestRunner(1631): started: testRun(course.labs.intentslab.test.ImplicitTest)
+02-08 14:05:13.958: E/dalvikvm(1631): Could not find class 'android.support.v4.app.FragmentActivity', referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-08 14:05:13.958: W/dalvikvm(1631): VFY: unable to resolve check-cast 35 (Landroid/support/v4/app/FragmentActivity;) in Lcom/robotium/solo/Waiter;
+02-08 14:05:13.958: D/dalvikvm(1631): VFY: replacing opcode 0x1f at 0x0009
+02-08 14:05:13.958: I/dalvikvm(1631): Could not find method android.support.v4.app.FragmentActivity.getSupportFragmentManager, referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-08 14:05:13.958: W/dalvikvm(1631): VFY: unable to resolve virtual method 56: Landroid/support/v4/app/FragmentActivity;.getSupportFragmentManager ()Landroid/support/v4/app/FragmentManager;
+02-08 14:05:13.958: D/dalvikvm(1631): VFY: replacing opcode 0x6e at 0x0010
+02-08 14:05:13.958: I/dalvikvm(1631): Could not find method android.support.v4.app.FragmentActivity.getSupportFragmentManager, referenced from method com.robotium.solo.Waiter.getSupportFragment
+02-08 14:05:13.958: W/dalvikvm(1631): VFY: unable to resolve virtual method 56: Landroid/support/v4/app/FragmentActivity;.getSupportFragmentManager ()Landroid/support/v4/app/FragmentManager;
+02-08 14:05:13.958: D/dalvikvm(1631): VFY: replacing opcode 0x6e at 0x0019
+02-08 14:05:13.958: W/dalvikvm(1631): VFY: unable to find class referenced in signature (Landroid/support/v4/app/Fragment;)
+02-08 14:05:13.968: W/dalvikvm(1631): VFY: unable to find class referenced in signature (Landroid/support/v4/app/Fragment;)
+02-08 14:05:15.569: D/gralloc_goldfish(1631): Emulator without GPU emulation detected.
+02-08 14:05:16.329: D/dalvikvm(1631): GC_FOR_ALLOC freed 188K, 12% free 2828K/3184K, paused 101ms, total 103ms
+02-08 14:05:16.779: D/dalvikvm(1631): GC_FOR_ALLOC freed 376K, 16% free 2964K/3508K, paused 29ms, total 30ms
+02-08 14:05:16.968: D/dalvikvm(1631): GC_FOR_ALLOC freed 514K, 20% free 2904K/3620K, paused 44ms, total 45ms
+02-08 14:05:17.008: D/dalvikvm(1631): GC_FOR_ALLOC freed 203K, 19% free 2965K/3620K, paused 19ms, total 20ms
+02-08 14:05:17.069: I/Lab-Intents(1631): Entered startImplicitActivation()
+02-08 14:05:17.069: I/Lab-Intents(1631): Chooser Intent Action:android.intent.action.CHOOSER
+02-08 14:05:17.329: D/dalvikvm(1631): GC_FOR_ALLOC freed 347K, 19% free 2954K/3620K, paused 18ms, total 23ms
+02-08 14:05:17.329: I/dalvikvm-heap(1631): Grow heap (frag case) to 4.122MB for 1127536-byte allocation
+02-08 14:05:17.369: D/dalvikvm(1631): GC_FOR_ALLOC freed 1K, 15% free 4054K/4724K, paused 29ms, total 30ms
+02-08 14:05:20.160: I/TestRunner(1631): finished: testRun(course.labs.intentslab.test.ImplicitTest)
+02-08 14:05:20.160: I/TestRunner(1631): passed: testRun(course.labs.intentslab.test.ImplicitTest)
